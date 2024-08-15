@@ -5,22 +5,20 @@
 🎓 Bachelor's in Engineering from the University of Hartford
 
 ## Current Workplace
-💼 Data Analyst at Cortal Insight
+💼 Data Intelligence at Cortal Insight
 
 ## Skills
-![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Excel" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitulsivakumar)
-[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mitul6282@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/mitulsivakumar)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/>](mailto:mitul6282@gmail.com)
 
 [![Mitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksmitul)](https://github.com/ksmitul/github-readme-stats)
 
