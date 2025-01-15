@@ -5,7 +5,7 @@
 🎓 Bachelor's in Engineering from the University of Hartford
 
 ## Current Workplace
-💼 Data Intelligence at Cortal Insight
+💼 Analytics at Kaseya
 
 ## Skills
 <p>
